@@ -10,7 +10,7 @@ This project implements a BERT-based model using the Hugging Face Transformers l
 The dataset should be in CSV format and must contain at least:
 - `tweet`: The text data.
 - `label`: The class label (`real` or `fake`).
-
+https://github.com/diptamath/covid_fake_news/tree/main/data
 The default file path used is `/content/Constraint_Train.csv`.
 
 ---
